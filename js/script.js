@@ -1,3 +1,6 @@
+const itemsContainer = document.querySelector(".items");
+const thumbsContainer = document.querySelector(".thumbs");
+
 const images = [
   "img/01.jpg",
   "img/02.jpg",
